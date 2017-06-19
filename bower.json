@@ -1,0 +1,21 @@
+{
+  "name": "chaturbate-chat",
+  "homepage": "https://github.com/paulallen87/polymer-chaturbate-chat",
+  "authors": [
+    "Paul Allen <paulallen87555@gmail.com>"
+  ],
+  "description": "A Polymer component for displaying Chaturbate chat messages.",
+  "main": "chaturbate-chat.html",
+  "keywords": [
+    "chaturbate"
+  ],
+  "license": "GPL-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
